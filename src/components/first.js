@@ -5,7 +5,7 @@ class First extends Component {
     return (
       <div>
         <h1>First</h1>
-        <p>This is the first Component!</p>
+        <p>This is the First Component!</p>
       </div>
     );
   }

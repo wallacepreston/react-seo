@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import First from './first'
 import Second from './second'
 
-class UrlBadLoader extends Component{
+class BadComponentSwitching extends Component{
   constructor(){
     super()
     this.state = {
@@ -40,4 +40,4 @@ class UrlBadLoader extends Component{
 
 };
 
-export default UrlBadLoader;
+export default BadComponentSwitching;
